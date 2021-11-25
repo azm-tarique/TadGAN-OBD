@@ -1,0 +1,11 @@
+torch
+matplotlib
+torchvision
+pandas
+numpy
+tensorboardX
+scipy
+seaborn
+sklearn
+#python3-tk
+#PyQt5==5.9.2
